@@ -28,7 +28,7 @@ class AlexaResponse:
                     "text": "Can I help you with anything else?"
                 }
             },
-            "shouldEndSession": false
+            "shouldEndSession": true
         }
     }
     '''
